@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31162020032",
+    "project_id": "app-mediclock",
+    "storage_bucket": "app-mediclock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31162020032:android:216d3a9d221912a2c53d25",
+        "android_client_info": {
+          "package_name": "com.example.proyect_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrO0McBs-8oblu902l7-yL4u47l_toQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31162020032:android:f60163291e75bd2ac53d25",
+        "android_client_info": {
+          "package_name": "com.utrm.appMediclock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrO0McBs-8oblu902l7-yL4u47l_toQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
